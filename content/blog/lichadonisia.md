@@ -1,6 +1,5 @@
 ---
 title: Lichadonisia
-date: 2023-01-25T11:48:56.036Z
 subtitle: ""
 cover: /assets/λιχαδονησια.jpg
 tags: KITE
